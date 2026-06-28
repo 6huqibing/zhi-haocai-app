@@ -1,0 +1,6 @@
+{
+  "appId": "com.zhicaohao.app",
+  "appName": "智耗材",
+  "webDir": ".",
+  "bundledWebpack": false
+}
